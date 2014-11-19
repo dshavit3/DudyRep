@@ -1,0 +1,15 @@
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\bin\Debug\RealTimeUpdateDemo.exe
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\bin\Debug\RealTimeUpdateDemo.pdb
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo_2012.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\App.g.cs
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo_MarkupCompile.cache
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo_MarkupCompile.lref
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo.g.resources
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo.Properties.Resources.resources
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo_2012.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo.exe
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\obj\x86\Debug\RealTimeUpdateDemo.pdb
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\bin\Debug2\RealTimeUpdateDemo.exe
+C:\Users\Public\Documents\Syncfusion\EssentialStudio\12.2.0.36\WPF\SfChart.WPF\Samples\Showcase\Realtime Update Demo\CS\bin\Debug2\RealTimeUpdateDemo.pdb
