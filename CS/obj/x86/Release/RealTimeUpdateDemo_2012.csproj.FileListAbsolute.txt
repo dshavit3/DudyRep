@@ -1,0 +1,5 @@
+H:\my_documents\GitHub\DudyRep\CS\obj\x86\Release\RealTimeUpdateDemo_2012.csprojResolveAssemblyReference.cache
+H:\my_documents\GitHub\DudyRep\CS\obj\x86\Release\MainWindow.g.cs
+H:\my_documents\GitHub\DudyRep\CS\obj\x86\Release\App.g.cs
+H:\my_documents\GitHub\DudyRep\CS\obj\x86\Release\RealTimeUpdateDemo_MarkupCompile.cache
+H:\my_documents\GitHub\DudyRep\CS\obj\x86\Release\RealTimeUpdateDemo_MarkupCompile.lref
